@@ -1,2 +1,3 @@
 # personal-work
-this is my First repository in Github
+This is my First repository in GitHub
+Author - Aakash Goyal
